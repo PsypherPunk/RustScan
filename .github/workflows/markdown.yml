@@ -30,3 +30,4 @@ jobs:
         globs: |
           CODE_OF_CONDUCT.md
           README.md
+          contributing.md
